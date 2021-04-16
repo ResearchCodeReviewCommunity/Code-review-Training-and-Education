@@ -4,7 +4,7 @@
 
 
 # Code Review Training and Education
-This repository is created by the **"Code review Training and Education"** group, which is a part of the **"Code Review Community Working Group"** to collaborate on various tasks.
+This repository is created by the **"Code review Training and Education"** task group, which is part of the **"Code Review Community Working Group"** to collaborate on various tasks.
 
 Code review for research software is the process by which a peer evaluates another’s code – checking that the code does what it claims and is written in a way that can easily be read, maintained, and built upon by others. Code review is intended to improve code quality and reusability, whilst ensuring good practises and providing a learning opportunity for both parties. Code review may take place at different points throughout the research software lifecycle, and the code review process may vary depending on when the code is reviewed and the type of code being reviewed.  As a means of quality assurance, code review lends to trustworthiness.
 
@@ -23,4 +23,4 @@ Responsible for reaching out to related initiatives to collaborate on skills dev
 - Identify existing resources to support code review 
 
 
-> The image above is the Turing Way project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332807¶
+> The image above is taken from the Turing Way project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332807¶
