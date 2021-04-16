@@ -15,7 +15,7 @@ Code review for research software is the process by which a peer evaluates anoth
   - Infographic on code review for PIs
   - How to guide for code review
   - Community building (champions as a first step)
-Responsible for reaching out to related initiatives to collaborate on skills development.
+- Responsible for reaching out to related initiatives to collaborate on skills development.
  
  
 ### Phase 1 objectives (3 - 6 months)
