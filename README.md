@@ -11,16 +11,16 @@ Code review for research software is the process by which a peer evaluates anoth
 ## Mandate
 - Identify and address barriers to code review, for all parties involved 
 - Identify existing resources to support code review 
-- Support the practical implementation of the outputs produced by each task group – with an aim to increase awareness and build capacity for code review. - - Materials for different audiences examples:
-infographic on code review for PIs
-how to guide for code review
-Community building (champions as a first step)
+- Support the practical implementation of the outputs produced by each task group- with an aim to increase awareness and build capacity for code review. Materials for different audiences examples:
+  - Infographic on code review for PIs
+  - How to guide for code review
+  - Community building (champions as a first step)
 Responsible for reaching out to related initiatives to collaborate on skills development.
  
  
 ### Phase 1 objectives (3 - 6 months)
-Identify and address barriers to code review, for all parties involved 
-Identify existing resources to support code review 
+- Identify and address barriers to code review, for all parties involved 
+- Identify existing resources to support code review 
 
 
 > The image above is the Turing Way project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332807¶
