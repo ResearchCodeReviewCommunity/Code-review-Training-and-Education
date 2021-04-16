@@ -2,7 +2,7 @@
 name: Add a new resources
 about: Suggest a new resources for this project
 title: ''
-labels: 'resources'
+labels: resources
 assignees: ''
 
 ---
@@ -15,4 +15,3 @@ Use Markdown to link the resources. If you don't want to share it publicly, you 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
-
